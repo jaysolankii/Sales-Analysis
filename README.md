@@ -24,12 +24,12 @@ The dashboard highlights **key performance indicators (KPIs), trends, and insigh
 
 ##  Dashboard Preview
 
-### Main Dashboard
+### Sales Dashboard
 ![Sales Overview](https://github.com/jaysolankii/Sales-Analysis/blob/main/Sales%20Overview%20jpg)
 
-### Month-to-Date Report
+###  Customer dashboard
 ![Customer Detail](https://github.com/jaysolankii/Sales-Analysis/blob/main/Customer%20Details%20jpg)
 
 
-###  Same Period Last Year Report  
+###  Product Dashboard
 ![Product Details](https://github.com/jaysolankii/Sales-Analysis/blob/main/Product%20Details%20jpg)  
